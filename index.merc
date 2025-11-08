@@ -1,0 +1,6 @@
+var firstnumber = userinput("First number :> ");
+var second = userinput("Second number :> ");
+
+var answer = float(firstnumber + second);
+
+write("Answer" + answer);
